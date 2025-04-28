@@ -1,0 +1,7 @@
+box-sizing: border-box;
+
+.container {
+    border: 5px solid green;
+    height: 300px;
+    width: 300px;
+}
